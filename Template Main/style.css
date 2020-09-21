@@ -745,7 +745,7 @@ Version:1.0
 	border:none;
 }
 .header.shop .header-inner {
-	background: #333;
+	background: #3d79b1;
 }
 .header.shop.v3 .header-inner {
 	background: transparent;
@@ -757,12 +757,17 @@ Version:1.0
 .header.shop .topbar p {
 	color: #333;
 }
+
+
+/*-------------------*/
 .header.shop .all-category {
 	color: #fff;
 	background: transparent;
 	position: relative;
-	background: #f7941d;
+	background: #2b647c;
 }
+
+
 .header.shop .all-category h3{
 	padding: 20px 25px;
 }
