@@ -1624,7 +1624,7 @@ Version:1.0
 }
 .midium-banner .single-banner p {
 	font-size: 13px;
-	color: #F7941D;
+	color: #2b647c;
 	font-weight: 500;
 	margin-bottom: 5px;
 	text-transform: uppercase;
@@ -1648,7 +1648,7 @@ Version:1.0
 	text-transform: uppercase;
 }
 .midium-banner .single-banner a:hover{
-	background:#F7941D;
+	background:#2b647c;
 	color:#fff;
 }
 /*======================================

@@ -1,0 +1,2 @@
+#2b647c-------Darker Blue Color Used in Category in Navigation
+#3d79b1-------Lighter than above, used in navigation in background
