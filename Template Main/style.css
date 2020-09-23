@@ -2931,7 +2931,7 @@ Version:1.0
 	padding:0px 50px;
 }
 .shopping-summery thead {
-	background: #F7941D;
+	background: #3d79b1;
 	color: #fff;
 }
 .shopping-summery thead tr th {
@@ -3164,7 +3164,10 @@ Version:1.0
 	line-height: 18px;
 	font-size: 13px;
 	color: #fff;
+	background-color: #2b647c;
+	
 }
+
 /*======================================
    End Shopping Cart CSS
 ========================================*/
