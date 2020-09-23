@@ -2596,7 +2596,7 @@ Version:1.0
 }
 .shop.single .nav-tabs li a.active,
 .shop.single .nav-tabs li:hover a{
-	background:#F7941D;
+	background:#2b647c;
 	color:#fff;
 	border-color:transparent;
 }
@@ -2690,7 +2690,7 @@ Version:1.0
 	display:inline-block;
 }
 .shop.single .ratting-main .single-rating ul li i{
-	color:#F7941D;
+	color:#2b647c;
 	font-size:14px;
 }
 .shop.single .review-inner label {
@@ -2742,7 +2742,7 @@ Version:1.0
 	display:inline-block;
 }
 .shop.single .comment-review .rating li i{
-	color:#F7941D;
+	color:#2b647c;
 	font-size: 14px;
 }
 .shop.single .rating-des p{
@@ -4655,7 +4655,7 @@ Version:1.0
 	font-size: 17px;
 	font-weight: 500;
 	margin-bottom: 5px;
-	color: #F7941D;
+	color: #2b647c;
 }
 .contact-us .title h3 {
 	font-size: 25px;
@@ -4682,7 +4682,7 @@ Version:1.0
 	text-align: center;
 	border-radius: 3px;
 	line-height: 40px;
-	background:#F7941D;
+	background:#2b647c;
 }
 .contact-us .single-info ul
 .contact-us .single-info ul li{
@@ -4695,7 +4695,7 @@ Version:1.0
 	font-weight:400;
 }
 .contact-us .single-info ul li a:hover{
-	color:#F7941D;
+	color:#2b647c;
 }
 .contact-us .single-info .title {
 	margin-bottom: 10px;
@@ -4732,7 +4732,7 @@ Version:1.0
 	position: relative;
 }
 .contact-us .form .form-group label span {
-	color: #ff2c18;
+	color: #2b647c;
 	display: inline-block;
 	position: absolute;
 	right: -12px;
@@ -4745,6 +4745,10 @@ Version:1.0
 .contact-us .form .button .btn {
 	height: 50px;
 	border: none;
+}
+.contact-us .form .button .btn:hover {
+	background-color: #2b647c;
+
 }
 #myMap {
 	height: 500px;
