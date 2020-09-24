@@ -4881,9 +4881,10 @@ Version:1.0
 }
 .footer .about .call span{
 	display: block;
+	padding-top: 5px;
 }
 .footer .about .call a {
-	color: #f7941d;
+	color: #3d79b1;
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -4900,7 +4901,7 @@ Version:1.0
 	font-weight: 400;
 }
 .footer .links ul li a:hover{
-	color:#F7941D;
+	color:#3d79b1;
 	padding-left:10px;
 }
 .footer .social{}
@@ -4931,7 +4932,7 @@ Version:1.0
 	font-size:16px;
 }
 .footer .social ul li a:hover{
-	color:#F7941D;
+	color:#3d79b1;
 }
 /* Copyright */
 .footer .copyright{
